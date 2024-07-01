@@ -1,5 +1,4 @@
 # FAST_REG
-# FAST_REG
 
 ## Key Features:
 Parallel Processing: Utilizes OpenMP for multithreaded hashing of file chunks.
